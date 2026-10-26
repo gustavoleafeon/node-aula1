@@ -1,6 +1,5 @@
-const soma = (a, b) => {
-    return a + b
-}
+const soma = requiered ("./soma")
+
 // () => {} arrow function
 
 const resultado = soma(3, 5)
