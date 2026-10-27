@@ -1,3 +1,5 @@
+import soma from "./utils/soma";
+
 const soma = requiered("./soma");
 
 // () => {} arrow function

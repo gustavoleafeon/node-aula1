@@ -3,3 +3,4 @@ const soma = (a, b) => {
 };
 
 module.exports = soma;
+export default soma;
